@@ -6,5 +6,5 @@ edition = "2018"
 description = "An Israeli Queue implementation"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/Kushagra-0801/batching-queue/"
-keywords = ["data structure", "queue", "batch", "israeli", "group"]
+keywords = ["data-structure", "queue", "batch", "israeli", "group"]
 categories = ["data-structures"]
